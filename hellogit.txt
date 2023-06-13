@@ -1,2 +1,2 @@
 hello,git  
-                                              --from naughtypony
+                                        --from sincerely naughtypony
